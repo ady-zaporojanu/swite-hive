@@ -42,6 +42,6 @@ Mobile 📱
 
 ## Author 🪧
 
-- Frontend Developer: [Me]([https://github.com/ady-zaporojanu/])
-- [Behance Design by Dediu Cosmin Gabriel]([https://www.behance.net/Dediu_Cosmin_UX_UI])
+- Frontend Developer: [Me](https://github.com/ady-zaporojanu/)
+- [Behance Design by Dediu Cosmin Gabriel](https://www.behance.net/Dediu_Cosmin_UX_UI)
 
