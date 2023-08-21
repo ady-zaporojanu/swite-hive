@@ -17,16 +17,12 @@ This is a landing page design for "Swite Hive," showcasing different fruit-infus
 
 Desktop 🖥
 
-![](https://github.com/ady-naga/interactive-rating-component/blob/main/images/Screen%20Shot%20Desktop.png)
+![]([https://github.com/ady-naga/interactive-rating-component/blob/main/images/Screen%20Shot%20Desktop.png](https://github.com/ady-zaporojanu/swite-hive/blob/main/images/screenshot.png))
 
-Mobile 📱
-
-![](https://github.com/ady-naga/interactive-rating-component/blob/main/images/Screen%20Shot%20Mobile.png)
 
 ### Links 🔗
  
-- Solution URL: [Here](https://github.com/ady-naga/interactive-rating-component/)
-- Live Site URL: [Here](https://interactive-rating-component-teal-omega.vercel.app/)
+- Live Site URL: [Here](https://swite-hive.vercel.app/)
 
 ## Features
 
