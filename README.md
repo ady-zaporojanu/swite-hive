@@ -17,7 +17,7 @@ This is a landing page design for "Swite Hive," showcasing different fruit-infus
 
 Desktop 🖥
 
-![]([https://github.com/ady-naga/interactive-rating-component/blob/main/images/Screen%20Shot%20Desktop.png](https://github.com/ady-zaporojanu/swite-hive/blob/main/images/screenshot.png))
+![](https://github.com/ady-naga/interactive-rating-component/blob/main/images/Screen%20Shot%20Desktop.png](https://github.com/ady-zaporojanu/swite-hive/blob/main/images/screenshot.png)
 
 
 ### Links 🔗
