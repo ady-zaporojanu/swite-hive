@@ -1,0 +1,31 @@
+{
+    "mango_honey": {
+      "title": "Clover Honey",
+      "description": "Mango is a delicious and juicy fruit, renowned for its exotic aroma and sweet-tangy taste. Mango honey is a refined combination that brings together the natural sweetness of honey and the intense flavor of mango. This unique blend merges the natural aromas of honey and mango, offering a distinct taste experience. It can be used as a sweetener in various culinary preparations or added to beverages to introduce an exotic and sweet note. ",
+      "background_image": "./images/mango.png",
+      "color": "#DAB315",
+      "background_color": "#BC9B17"
+    },
+    "orange_honey": {
+      "title": "Citrus Honey",
+      "description": "Orange is a citrus fruit known for its vibrant color and tangy-sweet flavor. Orange honey combines the natural sweetness of honey with the zesty essence of oranges, resulting in a delightful fusion of tastes. This versatile combination can be used as a natural sweetener in cooking or as an addition to beverages, lending a refreshing and citrusy twist. With its smooth consistency and invigorating aroma, orange honey adds a burst of sunshine to your culinary explorations.",
+      "background_image": "./images/orange.png",
+      "color": "#DE791A",
+      "background_color": "#BD7028"
+    },
+    "strawberry_honey": {
+      "title": "Red Gum Honey",
+      "description": "Strawberries are beloved for their juicy texture and naturally sweet taste. Strawberry honey marries the inherent sweetness of honey with the delectable essence of strawberries, creating a harmonious blend of flavors. This pairing can be employed to sweeten dishes or beverages, infusing them with the essence of ripe strawberries. The lush consistency and aromatic profile of strawberry honey bring a touch of fruity indulgence to your culinary endeavors.",
+      "background_image": "./images/strawberries.png",
+      "color": "#A00C24",
+      "background_color": "#670F1D"
+    },
+    "blackberry_honey": {
+      "title": "Berry Bliss Honey",
+      "description": "Blackberries are known for their bold and slightly tart flavor profile. Blackberry honey harmonizes the sweetness of honey with the rich, deep flavors of blackberries, resulting in a captivating symphony of tastes. This combination can be utilized as a sweetening agent in cooking or as an enhancement for drinks, imparting a luscious and tangy dimension. With its velvety texture and alluring fragrance, blackberry honey introduces a layer of complexity to your culinary creations.",
+      "background_image": "./images/blackberries.png",
+      "color": "#A71B64",
+      "background_color": "#721847"
+    }
+  }
+  
