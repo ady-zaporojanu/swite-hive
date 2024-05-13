@@ -1,4 +1,4 @@
-# Swite Hive Landing Page 🍯🍇
+# Swite Hive Landing Page On Progress.... 🍯🍇
 
 This is a landing page design for "Swite Hive," showcasing different fruit-infused honey variations. The design includes a hero section with a rotating carousel that displays various honey jars with fruits, accompanied by other animations.
 
